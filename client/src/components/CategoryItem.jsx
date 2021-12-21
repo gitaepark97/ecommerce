@@ -44,8 +44,7 @@ export default function CategoryItem({ item }) {
     <Container>
       <Image src={item.img} />
       <Info>
-        <Title>{item.title}</Title>
-        <Button>SHOP NOW</Button>
+        <Title>{item.title}</Title>ㅣ<Button>SHOP NOW</Button>
       </Info>
     </Container>
   )
