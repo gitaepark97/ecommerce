@@ -1,3 +1,4 @@
+import Cart from './pages/Cart'
 import Home from './pages/Home'
 import Login from './pages/Login'
 import Product from './pages/Product'
@@ -12,6 +13,7 @@ export default function App() {
       <Product />
       <Login />
       <Register />
+      <Cart />
     </div>
   )
 }
