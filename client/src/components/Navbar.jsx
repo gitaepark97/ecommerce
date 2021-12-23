@@ -75,8 +75,8 @@ export default function Navbar() {
           <Logo>LOGO</Logo>
         </Center>
         <Right>
-          <MenuItem>Sign up</MenuItem>
-          <MenuItem>Login</MenuItem>
+          <MenuItem>REGISTER</MenuItem>
+          <MenuItem>SIGN IN</MenuItem>
           <MenuItem>
             <Badge badgeContent={4} color="primary">
               <ShoppingCartOutlinedIcon />
