@@ -107,8 +107,7 @@ const ProductAmountContainer = styled.div`
 
 const ProductAmount = styled.div`
   font-size: 24px;
-  align-items: center;
-  margin-bottom: 20px;
+  margin: 5px;
   ${mobile({ margin: '5px 15px' })}
 `
 
@@ -126,7 +125,7 @@ const Hr = styled.hr`
 
 const Summary = styled.div`
   flex: 1;
-  border: 0ch.5s solid lightgray;
+  border: 0.5s solid lightgray;
   border-radius: 10px;
   padding: 20px;
   height: 50vh;
